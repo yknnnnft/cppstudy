@@ -1,5 +1,7 @@
 *.exe
 *.swp
+compile_commands.json
 
 origin/
-
+CMakeFiles/
+build/
